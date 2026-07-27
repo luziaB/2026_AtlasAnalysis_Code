@@ -1,3 +1,3 @@
-# PLEASE CHANGE THIS README TO SUIT YOUR PROJECT/REPO
+Atlas Analysis 2026
 
-Please take a look at the uploaded [powerpoint](TuongLab_notebook_managements.pptx) for instructions.
+This repository contains notebooks for the analyses performed in 2026 for the Myeloid cell atlas data (developed by Nikita Rosendahl, notebooks for this can be found in the repository Nikita-project).  
